@@ -1,0 +1,54 @@
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/0w/d972cbms2xj2cdswc43pdq7m3jn4w9/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/axsu/Library/Application Support/IdeaIC2018.2/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+run
+;set _root_.scala.collection.Seq(shellPrompt := { _ => "" },SettingKey[_root_.scala.Option[_root_.sbt.File]]("sbtStructureOutputFile") in _root_.sbt.Global := _root_.scala.Some(_root_.sbt.file("/private/var/folders/0w/d972cbms2xj2cdswc43pdq7m3jn4w9/T/sbt-structure.xml")),SettingKey[_root_.java.lang.String]("sbtStructureOptions") in _root_.sbt.Global := "download, resolveClassifiers");apply -cp "/Users/axsu/Library/Application Support/IdeaIC2018.2/Scala/launcher/sbt-structure-1.0.jar" org.jetbrains.sbt.CreateTasks;*/*:dumpStructure
+exit
+test
+clean compile
+clean
+compile
+test
+clean
+compile
+test
+clean
+compile
+test
+ls
+clean
+compile
+test
+clean
+compile
+test
+test-quick
+clean
+compile
+test
+clean
+compile
+clean compile
+clean
+compile
+test
+List(1) match {case x :: xs => print("this wokrs")}
+clean
+compile
+test
+clean
+compile
+test
+clean
+compile
+test
+sbt test
+test
+clean
+compile
+test
+clean compile test
+cleam/compile/test
+clean/compile
+clean compile
+q:
+:q

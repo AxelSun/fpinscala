@@ -1,0 +1,32 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mDataStructureSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mPattern match[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should the value of x should be 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the first element of the list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should throw an error if called on empty MyList[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdrop while[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should remove all odd numbers from List of ints[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32minit[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return all elements except the last in a MyList[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfoldright[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 10 passing sum function and MyList(1,2,3,4)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mlength[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 5 if the length of MyList is 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mproduct2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 4 when the input is a MyList of (2, 2) using foldLeft[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32maddOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add 1 to each element in a list of integers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mdoubleToString[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should convert all Doubles in a List to Strings[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapAddOne[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add 1 to each element in a list of integers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mflatMap[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should be able to filter all odd elements in a list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mzipWith[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should write (foo, bar) given List(f, ba), List(oo, r)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmaximumTree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 30 if 30 is the biggest Integer in a Tree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapTree[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add 10 to each element in a Tree of ints when passing x => x + 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mmapViaFold[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should add 10 to each element in a Tree of ints when passing x => x + 10[0m[0m
