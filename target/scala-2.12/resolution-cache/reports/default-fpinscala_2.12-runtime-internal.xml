@@ -7,8 +7,32 @@
 		revision="0.1"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20190121222717"/>
+		date="20190519202034"/>
 	<dependencies>
+		<module organisation="io.spray" name="spray-json_2.12">
+			<revision name="1.3.5" status="release" pubdate="20181108141646" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://github.com/spray/spray-json" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="4">
+				<license name="Apache 2" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="3078" time="0" location="/Users/axsu/.ivy2/cache/io.spray/spray-json_2.12/ivy-1.3.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/spray/spray-json_2.12/1.3.5/spray-json_2.12-1.3.5.pom"/>
+				<caller organisation="default" name="fpinscala_2.12" conf="compile, runtime-internal, runtime, optional" rev="1.3.5" rev-constraint-default="1.3.5" rev-constraint-dynamic="1.3.5" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="spray-json_2.12" type="jar" ext="jar" status="no" details="" size="294174" time="0" location="/Users/axsu/.ivy2/cache/io.spray/spray-json_2.12/jars/spray-json_2.12-1.3.5.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/spray/spray-json_2.12/1.3.5/spray-json_2.12-1.3.5.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="com.softwaremill.sttp" name="core_2.12">
+			<revision name="1.5.11" status="release" pubdate="20190219120419" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://softwaremill.com/open-source" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="3">
+				<license name="Apache 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<metadata-artifact status="no" details="" size="3275" time="0" location="/Users/axsu/.ivy2/cache/com.softwaremill.sttp/core_2.12/ivy-1.5.11.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11.pom"/>
+				<caller organisation="default" name="fpinscala_2.12" conf="compile, runtime-internal, runtime, optional" rev="1.5.11" rev-constraint-default="1.5.11" rev-constraint-dynamic="1.5.11" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="core_2.12" type="jar" ext="jar" status="no" details="" size="400634" time="0" location="/Users/axsu/.ivy2/cache/com.softwaremill.sttp/core_2.12/jars/core_2.12-1.5.11.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/com/softwaremill/sttp/core_2.12/1.5.11/core_2.12-1.5.11.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
 		<module organisation="org.scala-lang" name="scala-reflect">
 			<revision name="2.12.8" status="release" pubdate="20181204111524" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.8/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
 				<license name="Apache-2.0" url="https://www.apache.org/licenses/LICENSE-2.0"/>
@@ -38,6 +62,8 @@
 				<license name="Apache-2.0" url="https://www.apache.org/licenses/LICENSE-2.0"/>
 				<metadata-artifact status="no" details="" size="2656" time="0" location="/Users/axsu/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.8.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.8/scala-library-2.12.8.pom"/>
 				<caller organisation="org.scala-lang" name="scala-reflect" conf="compile, runtime" rev="2.12.8" rev-constraint-default="2.12.8" rev-constraint-dynamic="2.12.8" callerrev="2.12.8"/>
+				<caller organisation="com.softwaremill.sttp" name="core_2.12" conf="default, compile, runtime, master" rev="2.12.8" rev-constraint-default="2.12.8" rev-constraint-dynamic="2.12.8" callerrev="1.5.11"/>
+				<caller organisation="io.spray" name="spray-json_2.12" conf="default, compile, runtime, master" rev="2.12.8" rev-constraint-default="2.12.8" rev-constraint-dynamic="2.12.8" callerrev="1.3.5"/>
 				<caller organisation="default" name="fpinscala_2.12" conf="compile, runtime-internal, runtime, optional" rev="2.12.8" rev-constraint-default="2.12.8" rev-constraint-dynamic="2.12.8" callerrev="0.1"/>
 				<caller organisation="org.scalactic" name="scalactic_2.12" conf="default, compile, runtime, master" rev="2.12.8" rev-constraint-default="2.12.8" rev-constraint-dynamic="2.12.8" callerrev="3.0.5"/>
 				<artifacts>

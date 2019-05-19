@@ -1,6 +1,6 @@
 #Successful Tests
-#Mon Jan 21 22:27:41 CET 2019
-fpinscala.errorhandling.OptionSpec=1548106061655
-fpinscala.laziness.LazinessSpec=1548106061656
-fpinscala.gettingstarted.RecursionSpec=1548106061663
-fpinscala.datastructures.DataStructureSpec=1548106061789
+#Sun Feb 03 22:47:23 CET 2019
+fpinscala.errorhandling.OptionSpec=1549230443509
+fpinscala.laziness.LazinessSpec=1549230443546
+fpinscala.gettingstarted.RecursionSpec=1549230443514
+fpinscala.datastructures.DataStructureSpec=1549230443577

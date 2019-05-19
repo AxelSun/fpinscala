@@ -29,6 +29,12 @@ sealed trait Stream[+A] {
     case _ => empty
   }
 
+  def takeWhile2(p: A => Boolean): Stream[A] =
+    foldRight(empty[A])((h,t) =>
+      if(p(h)) cons(h,t)
+      else empty
+    )
+
   /** Folds the stream to the right by applying f, foldRight extracts the general
     * recursion pattern on Stream with match and can be used to implement other functions */
   def foldRight[B](z: => B)(f: (A, => B) => B): B =
@@ -46,6 +52,23 @@ sealed trait Stream[+A] {
   def forAll(p: A => Boolean): Boolean = {
     foldRight(true)((a, b) => p(a) && b)
   }
+
+  /** Returns an Some(head) if there is an item in the list*/
+  def headOption: Option[A] = foldRight(None: Option[A])((h, _) => Some(h))
+
+
+  def map[B](f: A => B): Stream[B] =
+    foldRight(empty[B])((h, t) => cons(f(h), t))
+
+  def filter(f: A => Boolean): Stream[A] =
+    foldRight(empty[A])((h, t) => if (f(h)) cons(h, t) else t)
+
+  def append[B>:A](s: => Stream[B]): Stream[B] =
+    foldRight(s)((h,t) => cons(h, t))
+
+  def flatMap[B](f: A => Stream[B]): Stream[B] =
+    foldRight(empty[B])((h,t) => f(h) append t)
+
 
 }
 
@@ -67,5 +90,12 @@ object Stream {
 
   def apply[A](as: A*): Stream[A] =
     if (as.isEmpty) empty else cons(as.head, apply(as.tail: _*))
+
+
+  /** Creates an infinite Stream of constant a */
+  def constant[A](a: A): Stream[A] = {
+    lazy val tail: Stream[A] = cons(a, tail)
+    tail
+  }
 
 }

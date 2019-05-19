@@ -1,11 +1,11 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.gettingstarted.RecursionSpec, org.scalatest.tools.Framework$$anon$1@29a7f187, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.laziness.LazinessSpec, org.scalatest.tools.Framework$$anon$1@29a7f187, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.errorhandling.OptionSpec, org.scalatest.tools.Framework$$anon$1@29a7f187, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.datastructures.DataStructureSpec, org.scalatest.tools.Framework$$anon$1@29a7f187, false, [SuiteSelector])[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 488 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 31[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.datastructures.DataStructureSpec, org.scalatest.tools.Framework$$anon$1@7a20d73, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.gettingstarted.RecursionSpec, org.scalatest.tools.Framework$$anon$1@7a20d73, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.errorhandling.OptionSpec, org.scalatest.tools.Framework$$anon$1@7a20d73, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fpinscala.laziness.LazinessSpec, org.scalatest.tools.Framework$$anon$1@7a20d73, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 535 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 32[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 31, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 32, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	fpinscala.laziness.LazinessSpec[0m

@@ -4,7 +4,106 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/Tree.scala" line="30" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f473ffae-908a-4553-86e5-5d455d126060" name="Default Changelist" comment="" />
+    <list default="true" id="f473ffae-908a-4553-86e5-5d455d126060" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/fpinscala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/fpinscala.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37cc8021d7e4cb189795$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37cc8021d7e4cb189795.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$37cc8021d7e4cb189795.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$54161a0be5e32f56662a$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$54161a0be5e32f56662a.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$54161a0be5e32f56662a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$61dd7c5ac53f0e63d700$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$61dd7c5ac53f0e63d700.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$61dd7c5ac53f0e63d700.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$83690d7ad973145f0a1e$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$83690d7ad973145f0a1e.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$83690d7ad973145f0a1e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ff383da0d4a753c6cba7$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ff383da0d4a753c6cba7.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ff383da0d4a753c6cba7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/fpinscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/fpinscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/fpinscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/fpinscala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-fpinscala-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/fpinscala/laziness/Stream.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/fpinscala/laziness/Stream.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/fpinscala/laziness/LazinessSpec.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/fpinscala/laziness/LazinessSpec.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/Cons$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/Cons$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/Cons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/Cons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/List$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/List$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/Nil$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/datastructures/Nil$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/None$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/None$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/Option.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/Option.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/Some$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/Some$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/Some.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/errorhandling/Some.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Cons$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Cons$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Cons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Cons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Empty$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Empty$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Stream$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Stream$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Stream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/classes/fpinscala/laziness/Stream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/fpinscala_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/fpinscala_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/fpinscala_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/default/fpinscala_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/resolution-cache/reports/default-fpinscala_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.12/test-classes/fpinscala/laziness/LazinessSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.12/test-classes/fpinscala/laziness/LazinessSpec.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncSetup/$global/streams/inc_compile_2.12.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/compileIncremental/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/definedTests/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/$global/streams/succeeded_tests" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=fpinscala.errorhandling.OptionSpec/test/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=fpinscala.errorhandling.OptionSpec/test/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=fpinscala.gettingstarted.RecursionSpec/test/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/test/isModule=false name=fpinscala.gettingstarted.RecursionSpec/test/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.datastructures.DataStructureSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.datastructures.DataStructureSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.errorhandling.OptionSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.errorhandling.OptionSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.gettingstarted.RecursionSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.gettingstarted.RecursionSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.laziness.LazinessSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/TEST-fpinscala.laziness.LazinessSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/fpinscala.datastructures.DataStructureSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/fpinscala.datastructures.DataStructureSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/fpinscala.errorhandling.OptionSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/fpinscala.errorhandling.OptionSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/fpinscala.gettingstarted.RecursionSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/fpinscala.gettingstarted.RecursionSpec.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-reports/fpinscala.laziness.LazinessSpec.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-reports/fpinscala.laziness.LazinessSpec.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -24,56 +123,96 @@
     <session id="-1869451197">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="history" value="1" />
-          <entry key="sbt" value="1" />
-          <entry key="sc" value="1" />
-          <entry key="scala" value="25" />
+          <entry key="properties" value="1" />
+          <entry key="sbt" value="2" />
+          <entry key="sc" value="2" />
+          <entry key="scala" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Scala" value="26" />
-          <entry key="sbt" value="1" />
+          <entry key="Properties" value="1" />
+          <entry key="Scala" value="38" />
+          <entry key="sbt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="sbt" value="2" />
-          <entry key="sc" value="163" />
-          <entry key="scala" value="25172" />
+          <entry key="sbt" value="30" />
+          <entry key="sbtShell" value="1336" />
+          <entry key="sc" value="4213" />
+          <entry key="scala" value="34715" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Scala" value="25335" />
-          <entry key="sbt" value="2" />
+          <entry key="Scala" value="38928" />
+          <entry key="sbt" value="30" />
+          <entry key="sbtShell" value="1336" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fpinscala" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/Option.scala">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/parallelism/InitialApproach.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="480">
+              <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/sttp/SttpTest.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <element signature="e#24#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/datastructures/DataStructureSpec.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="56" column="92" lean-forward="true" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/List.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13">
-              <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+            <state relative-caret-position="2730">
+              <caret line="182" column="25" lean-forward="true" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -90,12 +229,16 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>foldRight</find>
+      <find>concat</find>
+      <find>append</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/test/scala/GettingStartedTest.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/GettingStartedSpec.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/UnitSpec.scala" />
@@ -109,25 +252,31 @@
         <option value="$PROJECT_DIR$/src/test/scala/fpinscala/errorhandling/Option.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/fpinscala/errorhandling/OptionSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/optionUsageScenarios.sc" />
-        <option value="$PROJECT_DIR$/src/test/scala/fpinscala/laziness/LazinessSpec.scala" />
-        <option value="$PROJECT_DIR$/src/main/scala/fpinscala/laziness/Stream.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/List.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/Option.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/fpinscala/laziness/Stream.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/fpinscala/laziness/LazinessSpec.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/fpinscala/state/RNG.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/fpinscala/parallelism/InitialApproach.sc" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/src/test/scala/fpinscala/sttp/SttpTest.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="19" />
-    <option name="y" value="28" />
-    <option name="width" value="1313" />
-    <option name="height" value="718" />
+    <option name="x" value="3" />
+    <option name="y" value="23" />
+    <option name="width" value="1437" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,15 +323,6 @@
               <item name="fpinscala" type="b2602c69:ProjectViewProjectNode" />
               <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="errorhandling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fpinscala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -207,36 +347,20 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="errorhandling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fpinscala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="gettingstarted" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fpinscala" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="fpinscala" type="462c0819:PsiDirectoryNode" />
-              <item name="laziness" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548796423899" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555498150821" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -282,17 +406,17 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="2441945833" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="831553353" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="2567920773" />
       </map>
     </option>
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../Scala/coursera/calculator" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/coursera/example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/coursera/quickcheck" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/coursera/streams" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../Scala/forcomp" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/coursera/calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/coursera/example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/coursera/quickcheck" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/coursera/streams" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/forcomp" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../netlight" value="PREVIEW" />
       </map>
     </option>
@@ -311,22 +435,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="28" width="1313" height="718" extended-state="0" />
-    <editor active="true" />
+    <frame x="3" y="23" width="1437" height="768" extended-state="0" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23288749" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985207" visible="true" weight="0.22150537" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Build" weight="0.37060702" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.3290735" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50147927" side_tool="true" weight="0.22150537" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -334,15 +451,21 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="sbt" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" weight="0.32988167" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.37060702" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3290735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="sbt" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -352,34 +475,9 @@
     <entry file="file://$PROJECT_DIR$/target/.history">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/UnitSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/GettingStartedSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/Function1.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/DataStructuresExercises.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/UnitSpec.scala" />
+    <entry file="file://$PROJECT_DIR$/src/test/scala/GettingStartedSpec.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/DataStructuresExercises.scala" />
     <entry file="jar://$USER_HOME$/.ivy2/cache/org.scalatest/scalatest_2.12/srcs/scalatest_2.12-3.0.5-sources.jar!/org/scalatest/Matchers.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -394,20 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/datastructures/DataStructureSpec.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="92" lean-forward="true" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/optionUsageScenarios.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/optionUsageScenarios.sc" />
     <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/errorhandling/OptionSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -422,45 +507,93 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/laziness/Stream.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/Option.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+        <state relative-caret-position="202">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/laziness/Stream.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="461">
+          <caret line="96" column="31" selection-start-line="96" selection-start-column="31" selection-end-line="96" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/laziness/LazinessSpec.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="330">
+          <caret line="22" column="94" selection-start-line="22" selection-start-column="93" selection-end-line="22" selection-end-column="94" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/Tree.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="55" selection-start-line="55" selection-end-line="56" />
+        <state relative-caret-position="58">
+          <caret line="4" column="67" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/collection/LinearSeqOptimized.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="121" column="6" selection-start-line="121" selection-start-column="6" selection-end-line="121" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/scala/Function1.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/state/RNG.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="202" column="51" lean-forward="true" selection-start-line="202" selection-start-column="51" selection-end-line="202" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/build.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/parallelism/InitialApproach.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/sttp/SttpTest.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/fpinscala/datastructures/DataStructureSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="56" column="92" lean-forward="true" selection-start-line="56" selection-start-column="92" selection-end-line="56" selection-end-column="92" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/datastructures/List.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13">
-          <caret line="89" column="32" lean-forward="true" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/fpinscala/errorhandling/Option.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="2730">
+          <caret line="182" column="25" lean-forward="true" selection-start-line="182" selection-start-column="16" selection-end-line="182" selection-end-column="25" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRecursionSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfib[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce the correct value for n=0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce the correct value for n=1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce the correct value for n=2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce the correct value for n=3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce the correct value for n=4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should produce the correct value for n=5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misSorted[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true for lessThan comparsion of sorted list of ints[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return false for lessThan comparsion of non-sorted list of ints[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misSortedTailRect[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return true for lessThan comparsion of sorted list of ints[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return false for lessThan comparsion of non-sorted list of ints[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mcompose[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should take two functions and apply them as f1(f2(value))[0m[0m

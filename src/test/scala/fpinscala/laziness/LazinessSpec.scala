@@ -19,5 +19,9 @@ class LazinessSpec extends FlatSpec with Matchers {
       .shouldEqual(List(2,4,6))
   }
 
+  "constant" should "return a list of 10 constants" in {
+    Stream.constant('a').map(_.toUpper).take(5).toList.shouldEqual(List('A', 'A', 'A', 'A', 'a'))
+  }
+
 
 }
